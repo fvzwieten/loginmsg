@@ -11,14 +11,14 @@ ANSIBLE_METADATA = {
 
 DOCUMENTATION = '''
 ---
-module: my_test
+module: loginmsg
 
 short_description: This is my test module
 
 version_added: "2.4"
 
 description:
-	- "This is my longer description explaining my test module"
+	- "This is my longer description explaining my loginmsg module"
 
 options:
 	text:
